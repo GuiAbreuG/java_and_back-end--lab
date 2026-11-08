@@ -10,13 +10,13 @@ O objetivo é registrar minha evolução, praticar os conceitos aprendidos e des
 ## 📚 Conteúdos estudados
 
 ### 01. Fundamentos do Java
-- [ ] Introdução ao Java
-- [ ] História e características da linguagem
-- [ ] Instalação e configuração do JDK
-- [ ] JVM, JRE e JDK
-- [ ] Estrutura de um programa Java
-- [ ] Primeiro programa: Hello World
-- [ ] Compilação e execução de programas
+- [x] Introdução ao Java
+- [x] História e características da linguagem
+- [x] Instalação e configuração do JDK
+- [x] JVM, JRE e JDK
+- [x] Estrutura de um programa Java
+- [x] Primeiro programa: Hello World
+- [x] Compilação e execução de programas
 
 ### 02. Variáveis e tipos de dados
 - [ ] Variáveis e constantes
