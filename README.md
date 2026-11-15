@@ -19,9 +19,9 @@ O objetivo é registrar minha evolução, praticar os conceitos aprendidos e des
 - [x] Compilação e execução de programas
 
 ### 02. Variáveis e tipos de dados
-- [ ] Variáveis e constantes
-- [ ] Tipos primitivos
-- [ ] Tipos de referência
+- [x] Variáveis e constantes
+- [x] Tipos primitivos
+- [x] Tipos de referência
 - [ ] Conversão de tipos (Casting)
 - [ ] Inferência de tipos (`var`)
 - [ ] Operadores aritméticos
