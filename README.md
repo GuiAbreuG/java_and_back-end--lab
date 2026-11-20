@@ -22,9 +22,9 @@ O objetivo é registrar minha evolução, praticar os conceitos aprendidos e des
 - [x] Variáveis e constantes
 - [x] Tipos primitivos
 - [x] Tipos de referência
-- [ ] Conversão de tipos (Casting)
-- [ ] Inferência de tipos (`var`)
-- [ ] Operadores aritméticos
+- [x] Conversão de tipos (Casting)
+- [x] Inferência de tipos (`var`)
+- [x] Operadores aritméticos
 - [ ] Operadores relacionais
 - [ ] Operadores lógicos
 - [ ] Operadores de atribuição
