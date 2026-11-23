@@ -25,10 +25,10 @@ O objetivo é registrar minha evolução, praticar os conceitos aprendidos e des
 - [x] Conversão de tipos (Casting)
 - [x] Inferência de tipos (`var`)
 - [x] Operadores aritméticos
-- [ ] Operadores relacionais
-- [ ] Operadores lógicos
-- [ ] Operadores de atribuição
-- [ ] Operadores unários
+- [x] Operadores relacionais
+- [x] Operadores lógicos
+- [x] Operadores de atribuição
+- [x] Operadores unários
 
 ### 03. Entrada e saída de dados
 - [ ] Saída de dados com `System.out`
