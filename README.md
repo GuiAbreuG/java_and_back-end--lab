@@ -31,8 +31,8 @@ O objetivo é registrar minha evolução, praticar os conceitos aprendidos e des
 - [x] Operadores unários
 
 ### 03. Entrada e saída de dados
-- [ ] Saída de dados com `System.out`
-- [ ] Entrada de dados com `Scanner`
+- [x] Saída de dados com `System.out`
+- [x] Entrada de dados com `Scanner`
 - [ ] Formatação de saídas
 - [ ] Leitura de diferentes tipos de dados
 
